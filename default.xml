@@ -3,5 +3,5 @@
   <remote name="github" fetch=".." />
   <default revision="refs/heads/master" remote="github" sync-j="4" />
 
-  <project name="eric011/dotfiles" remote="local" path="dotfiles" />
+  <project name="eric011/dotfiles" remote="github" path="dotfiles" />
 </manifest>
