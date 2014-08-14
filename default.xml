@@ -4,4 +4,5 @@
   <default revision="refs/heads/master" remote="github" sync-j="4" />
 
   <project name="eric011/dotfiles" remote="github" path="dotfiles" />
+  <project name="eric011/fixity" remote="github" path="fixity" />
 </manifest>
